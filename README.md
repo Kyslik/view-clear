@@ -16,7 +16,7 @@ Pull this package in through Composer.
 
 ```
 {
-    "require": {
+    "require-dev": {
         "kyslik/view-clear": "dev-master"
     }
 }
