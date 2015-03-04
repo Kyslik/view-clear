@@ -1,8 +1,6 @@
 <?php namespace Kyslik\ViewClear\Console;
 
 use Illuminate\Console\Command;
-use Symfony\Component\Console\Input\InputOption;
-use Symfony\Component\Console\Input\InputArgument;
 use Illuminate\Filesystem\Filesystem;
 
 class ViewClearCommand extends Command {
@@ -19,7 +17,7 @@ class ViewClearCommand extends Command {
 	 *
 	 * @var string
 	 */
-    protected $description = 'Clear views folder.';
+    protected $description = 'Clear views folder (storage/framework/views).';
 
     /**
      * The file system instance.
