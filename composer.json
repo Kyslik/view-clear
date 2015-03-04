@@ -1,7 +1,7 @@
 {
     "name": "kyslik/view-clear",
     "description": "Simple artisan command to clear view folder in Laravel 5.",
-    "keywords": ["artisan", "command", "clear:view", "view", "laravel", "laravel5"],
+    "keywords": ["artisan", "command", "view", "clear", "laravel", "laravel5"],
     "license": "MIT",
     "authors": [
         {
