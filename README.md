@@ -3,7 +3,7 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Total Downloads](https://img.shields.io/packagist/dt/Kyslik/view-clear.svg?style=flat-square)](https://packagist.org/packages/Kyslik/view-clear)
 
-Simple artisan command to clear view folder in Laravel 5 and Laravel 5.1
+Simple artisan command to clear view folder in Laravel 5.1 and [Laravel-5.0](https://github.com/Kyslik/view-clear/tree/Laravel-5.0)
 
 Simply put: clears `storage/framework/views` folder.
 
