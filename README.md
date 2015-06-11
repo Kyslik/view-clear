@@ -32,13 +32,13 @@ Add the package to your application service providers in `config/app.php`
 
 ```
 'providers' => [
-    
-    'Illuminate\Foundation\Providers\ArtisanServiceProvider',
-    'Illuminate\Auth\AuthServiceProvider',
-    ...
-    
-    'Kyslik\ViewClear\ViewClearServiceProvider',
 
+    App\Providers\RouteServiceProvider::class,
+
+    /*
+     * Third Party Service Providers...
+     */
+    Kyslik\ViewClear\ViewClearServiceProvider::class,
 ],
 ```
 
