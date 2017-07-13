@@ -7,14 +7,14 @@ Simple artisan command to clear view folder in <strike>Laravel 5.1</strike> and 
 
 Simply put: clears `storage/framework/views` folder.
 
-#Laravel 5.1 UPDATE
+# Laravel 5.1 UPDATE
 If you are using Laravel 5.1.* you do **NOT** need this package since it is part of Laravel base commands.
 
 `$ php artisan view:clear`
 
 
 ## Setup
-###Version(s)
+### Version(s)
  - For Laravel 5.0 use version **~1.0.0**
  - <strike>For Laravel 5.1 use version **~2.0.0**</strike> Laravel 5.1 has its own view:clear command, this package is not needed.
 
